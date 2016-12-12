@@ -19,3 +19,6 @@
  另:
  install.bat和uninstall.bat支持在windows下安装和卸载所有包文件。
  install.sh和uninstall.sh支持在linux下安装和卸载所有包文件。
+ 
+ 注：
+ 使用前请将手机调至开发者调试模式，使adb获得安装和卸载权限。
