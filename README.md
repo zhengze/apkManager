@@ -1,1 +1,1 @@
-# manage_apk
+# manage-apk
